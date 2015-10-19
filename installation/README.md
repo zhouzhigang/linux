@@ -1,0 +1,8 @@
+# Installation
+
+## kickstart
+
+## cobbler
+
+## Reference
+
