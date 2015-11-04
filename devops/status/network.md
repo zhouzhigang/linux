@@ -19,7 +19,7 @@ check config file
     ## Debian
     $ cat /etc/network/interfaces
     ## Red Hat
-    $ cat /etc/sysconfig/network_scripts/ifcfg-<interface>
+    $ cat /etc/sysconfig/network-scripts/ifcfg-<interface>
 
 ## route - show / manupulate the IP routing table
 
